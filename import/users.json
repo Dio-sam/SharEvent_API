@@ -1,0 +1,29 @@
+[ 
+ {
+ "firstName": "Richard",
+ "password": "richard",
+ "username": "richard@gmail.com",
+ "lastName":"Toblerone",
+ "birthday": "1946-06-19",
+ "photo": "uploads/profile/user.png",
+ "phone":"0692476678"
+},
+{
+  "firstName": "Vikash",
+  "password": "vikash",
+  "username": "vikash@gmail.com",
+  "lastName":"Samudra",
+  "birthday": "1996-01-22",
+  "photo":"uploads/profile/vikashsamudra.jpg",
+  "phone":"0643867944"
+ },
+ {
+  "firstName": "Théophane",
+  "password": "theophanemay",
+  "username": "theophanemay@gmail.com",
+  "lastName":"May",
+  "birthday": "1989-10-30",
+  "photo":  "uploads/profile/theophanemay.jpg",
+  "phone":"0664436412"
+  }
+]
